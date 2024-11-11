@@ -1,0 +1,52 @@
+----------------------------------------------------------------------------------------
+save model /data1/josephlee/multimodal/best_model/ourdata_wave_one_ch_best_model/oneloss 
+ Test Accuracy: 97.33333333333334, AUC: 0.9199999999999999, Recall: 0.84, F1 Score: 0.9130434782608696 
+save model /data1/josephlee/multimodal/best_model/ourdata_wave_one_ch_best_model/twoloss 
+ Test Accuracy: 96.66666666666667, AUC: 0.9, Recall: 0.8, F1 Score: 0.888888888888889 
+
+save model /data1/josephlee/multimodal/best_model/ourdata_lfcc_one_ch_best_model/oneloss 
+ Test Accuracy: 100.0, AUC: 1.0, Recall: 1.0, F1 Score: 1.0 
+save model /data1/josephlee/multimodal/best_model/ourdata_lfcc_one_ch_best_model/twoloss 
+ Test Accuracy: 100.0, AUC: 1.0, Recall: 1.0, F1 Score: 1.0 
+
+ save model /data1/josephlee/multimodal/best_model/ourdata_mfcc_one_ch_best_model/oneloss 
+ Test Accuracy: 99.33333333333333, AUC: 0.98, Recall: 0.96, F1 Score: 0.9795918367346939 
+save model /data1/josephlee/multimodal/best_model/ourdata_mfcc_one_ch_best_model/twoloss 
+ Test Accuracy: 99.33333333333333, AUC: 0.98, Recall: 0.96, F1 Score: 0.9795918367346939 
+----------------------------------------------------------------------------------------
+# av celeb
+save model /data1/josephlee/multimodal/best_model/avceleb_lfcc_one_ch_best_model/oneloss 
+ Test Accuracy: 97.0, AUC: 0.9699999999999999, Recall: 0.98, F1 Score: 0.9702970297029702 
+save model /data1/josephlee/multimodal/best_model/avceleb_lfcc_one_ch_best_model/twoloss 
+ Test Accuracy: 97.0, AUC: 0.9699999999999999, Recall: 0.98, F1 Score: 0.9702970297029702 
+save model /data1/josephlee/multimodal/best_model/avceleb_mfcc_one_ch_best_model/oneloss 
+ Test Accuracy: 98.0, AUC: 0.98, Recall: 0.98, F1 Score: 0.98 
+save model /data1/josephlee/multimodal/best_model/avceleb_mfcc_one_ch_best_model/twoloss 
+ Test Accuracy: 96.0, AUC: 0.96, Recall: 0.98, F1 Score: 0.9607843137254902 
+----------------------------------------------------------------------------------------
+# our data 10 seconds
+save model /data1/josephlee/multimodal/best_model/ourdata_wave_one_ch_best_model/oneloss_10 
+ Test Accuracy: 97.33333333333334, AUC: 0.9199999999999999, Recall: 0.84, F1 Score: 0.9130434782608696 
+save model /data1/josephlee/multimodal/best_model/ourdata_wave_one_ch_best_model/twoloss_10 
+ Test Accuracy: 98.0, AUC: 0.94, Recall: 0.88, F1 Score: 0.9361702127659575 
+save model /data1/josephlee/multimodal/best_model/ourdata_lfcc_one_ch_best_model/oneloss_10 
+ Test Accuracy: 100.0, AUC: 1.0, Recall: 1.0, F1 Score: 1.0 
+save model /data1/josephlee/multimodal/best_model/ourdata_lfcc_one_ch_best_model/twoloss_10 
+ Test Accuracy: 99.33333333333333, AUC: 0.996, Recall: 1.0, F1 Score: 0.9803921568627451 
+save model /data1/josephlee/multimodal/best_model/ourdata_mfcc_one_ch_best_model/oneloss_10 
+ Test Accuracy: 98.66666666666667, AUC: 0.96, Recall: 0.92, F1 Score: 0.9583333333333334 
+save model /data1/josephlee/multimodal/best_model/ourdata_mfcc_one_ch_best_model/twoloss_10 
+ Test Accuracy: 99.33333333333333, AUC: 0.98, Recall: 0.96, F1 Score: 0.9795918367346939 
+----------------------------------------------------------------------------------------
+# our data 30 secondssave model /data1/josephlee/multimodal/best_model/ourdata_wave_one_ch_best_model/oneloss_30 
+ Test Accuracy: 96.66666666666667, AUC: 0.9, Recall: 0.8, F1 Score: 0.888888888888889 
+save model /data1/josephlee/multimodal/best_model/ourdata_wave_one_ch_best_model/twoloss_30 
+ Test Accuracy: 98.66666666666667, AUC: 0.96, Recall: 0.92, F1 Score: 0.9583333333333334 
+save model /data1/josephlee/multimodal/best_model/ourdata_lfcc_one_ch_best_model/oneloss_30 
+ Test Accuracy: 98.66666666666667, AUC: 0.992, Recall: 1.0, F1 Score: 0.9615384615384615 
+save model /data1/josephlee/multimodal/best_model/ourdata_lfcc_one_ch_best_model/twoloss_30 
+ Test Accuracy: 94.66666666666667, AUC: 0.8400000000000001, Recall: 0.68, F1 Score: 0.8095238095238095 
+save model /data1/josephlee/multimodal/best_model/ourdata_mfcc_one_ch_best_model/oneloss_30 
+ Test Accuracy: 98.66666666666667, AUC: 0.96, Recall: 0.92, F1 Score: 0.9583333333333334 
+save model /data1/josephlee/multimodal/best_model/ourdata_mfcc_one_ch_best_model/twoloss_30 
+ Test Accuracy: 99.33333333333333, AUC: 0.98, Recall: 0.96, F1 Score: 0.9795918367346939 
